@@ -19,6 +19,3 @@ código
 ```
 git init
 ```
-
-## Referencias
-- blablabla
