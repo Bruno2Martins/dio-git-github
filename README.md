@@ -12,8 +12,8 @@ Repositório para armazenar resumos sobre Git e Github da
 
 | Aulas | Resumo |
 |-------|--------|
-| Criando e clonando Repositórios | [Resumos]() |
-| Salvando alterações no Repositório Local | [Resumos]() |
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
 
 código
 ```
